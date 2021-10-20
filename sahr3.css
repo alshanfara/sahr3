@@ -5,11 +5,7 @@ ul.nav.nav-tabs>li.active>a {
 .broadcasters {
 
 background-image: linear-gradient( 90deg ,#34637e 0,#87b5cf 10%,#34637e 51%,#87b5cf 89%,#34637e 100%);
-}
 
-
-a.label.label-primary.fl {
-auto;
 }
 div#l2 input#pass1, div#l2 input#u2, div#l3 input#pass2, div#l3 input#u3 {
     width: 49%;
@@ -56,43 +52,11 @@ background-image: linear-gradient( 90deg ,#34637e 0,#87b5cf 10%,#34637e 51%,#87b
 }
 
 
-label.label.border.btn.label-danger.tc.fl {
-    border-radius: 25px;
-}
-
-label.label.tc.border.btn.fl {
-    border-radius: 25px;
- 
-}
-
-label.label.tc.border.btn.label-info.fl {
-    border-radius: 25px;
-
-}
 
 
 
 
-.hand.nosel.fl.uzr.borderg {
-    background-color: #fff!important;
-	width: 98%!important;
-    margin-top: 3px!important;
-    margin-left: 4px!important;
-    border-radius: 3px!important;
-    border: 1px!important;
-}
 
-
-
-div#tlogins ::-webkit-scrollbar {
-    width: 5px;
-    height: 10px;
-}
-
-div#tlogins ::-webkit-scrollbar-button {
-    width: 5px;
-    height: 5px;
-}
 
 div#tlogins ::-webkit-scrollbar-thumb {
     background: 0 0;
@@ -102,34 +66,10 @@ background-image: linear-gradient( 90deg ,#34637e 0,#87b5cf 10%,#34637e 51%,#87b
 }
 
 
-div#tlogins ::-webkit-scrollbar-thumb:active {
-    background: 0 0
-}
-
-div#tlogins ::-webkit-scrollbar-track {
-    background: #fff;
-    border: 65px #fff;
-    border-radius: 34px;
-}
-
-div#tlogins ::-webkit-scrollbar-track:hover {
-    background: 0 0
-}
-
-div#tlogins ::-webkit-scrollbar-track:active {
-    background: 0 0
-}
-div#tlogins ::-webkit-scrollbar-corner {
-    background: 0 0;
-}
 
 div#tlogins .fl.mini.u-msg {
     margin-top: 3px!important;
     border-radius: 3px!important
-}
-
-div#tlogins .u-topic.dots {
-    width: 800px;
 }
 
 
